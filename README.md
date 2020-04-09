@@ -1,6 +1,6 @@
 # Online Order CRUD
 
-##### Note: This Project not yet succesfully
+##### Note: This Project isn't yet succesfully
 
 ### REST API
 
