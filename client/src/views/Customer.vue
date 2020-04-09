@@ -48,8 +48,7 @@ export default {
         phone_number: ''
       },
       customer: [],
-      updateSubmit: false,
-      cancelUpdate: false
+      updateSubmit: false
     }
   },
 
